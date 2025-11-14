@@ -1,4 +1,4 @@
 # Israrcode
 This is my first repository.
 <br>
-Author- Israr Ahmed
+Author- Israr Ahmed and his friend
