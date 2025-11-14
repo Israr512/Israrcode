@@ -1,4 +1,4 @@
 # Israrcode
-This is my first repositoty.
+This is my first repository.
 <br>
 Author- Israr Ahmed
