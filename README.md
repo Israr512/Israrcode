@@ -1,2 +1,3 @@
 # Israrcode
-this is my first repositoty.
+This is my first repositoty.
+Author- Israr Ahmed
